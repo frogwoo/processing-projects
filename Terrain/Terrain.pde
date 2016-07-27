@@ -58,5 +58,4 @@ void draw() {
   noStroke();
   fill(255);
   floor.run();
-  
 }
